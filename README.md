@@ -45,8 +45,8 @@ Nutze bitte unseren **[Issue Tracker](https://github.com/MCFabik/AKW-Ultimate-Te
 
 ---
 
-## ⚖️ Lizenz
-**[Licence](https://github.com/MCFabik/AKW-Ultimate-Tech-Design?tab=License-1-ov-file)**
+## ⚖️ [Lizenz](https://github.com/MCFabik/AKW-Ultimate-Tech-Design?tab=License-1-ov-file)
+
 ---
 
 **Entwickelt mit ❤️ für die Minecraft Tech-Community.**
