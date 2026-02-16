@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="250">
-      <img src="https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/main/assets/logo.webp" alt="AKW Logo" width="250">
+      <img src="https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/assets/logo.webp" alt="AKW Logo" width="250">
     </td>
     <td>
       <h3>Das ultimative Modpack für Visionäre</h3>
