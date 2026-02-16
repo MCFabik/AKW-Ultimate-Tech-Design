@@ -2,7 +2,7 @@
 name: "✨ Feature Request"
 about: Hast du eine Idee für eine neue Mod oder eine Verbesserung?
 title: ''
-labels: duplicate, enhancement, help wanted
+labels: enhancement
 assignees: MCFabik
 
 ---

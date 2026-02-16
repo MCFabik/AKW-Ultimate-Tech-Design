@@ -2,7 +2,7 @@
 name: "❓ Frage / Hilfe"
 about: Stelle eine Frage zum Modpack oder zur Installation.
 title: ''
-labels: duplicate, question
+labels: question
 assignees: MCFabik
 
 ---

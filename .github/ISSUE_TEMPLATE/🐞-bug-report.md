@@ -2,7 +2,7 @@
 name: "\U0001F41E Bug Report"
 about: Melde einen Fehler, damit ich ihn beheben kann.
 title: ''
-labels: bug, duplicate, help wanted
+labels: bug
 assignees: MCFabik
 
 ---
