@@ -18,6 +18,8 @@
   </tr>
 </table>
 
+[![AKW Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=MCFabikDE&repo=DEIN_REPO_NAME&theme=tokyonight&show_owner=true)](https://github.com/MCFabik/AKW-Ultimate-Tech-Design)
+
 ---
 
 ## 🚀 Highlights
