@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="250">
-      <img src="https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/assets/logo.webp" alt="AKW Logo" width="250">
+    <td width="280">
+      <img src="assets/logo.webp" alt="AKW Logo" width="280">
     </td>
     <td>
       <h3>Das ultimative Modpack für Visionäre</h3>
@@ -12,7 +12,8 @@
         Erschaffe gigantische Fabriken, automatisiere alles und baue mit Werkzeugen, die deine Vorstellungskraft sprengen.
       </p>
       <p>
-        <i>Status: 🚧 In Entwicklung (Release in wenigen Wochen)</i>
+        📧 <strong>Kontakt:</strong> <a href="mailto:MCGithubDE@gmx.de">MCGithubDE@gmx.de</a><br>
+        🚧 <strong>Status:</strong> In Entwicklung
       </p>
     </td>
   </tr>
@@ -20,33 +21,37 @@
 
 ---
 
-## 🚀 Highlights
+## 🚀 Die Highlights
 
-* **⚙️ Automation:** Volle Power mit *Create*, *Mekanism* und *Applied Energistics 2*.
-* **🏗️ Architektur:** Nutze *Axiom* und *WorldEdit* für monumentale Bauwerke.
-* **⚡ Grafik:** *Distant Horizons* für epische Sichtweiten und maximale Performance durch *Sodium*.
-* **🎮 Immersion:** Realistische Sounds und Partikeleffekte für ein tiefes Spielerlebnis.
+### ⚙️ Automation & High-Tech
+* **Create & Add-ons:** Nutze kinetische Energie, baue Schienensysteme und Diesel-Generatoren.
+* **Mekanism & AE2:** High-End Ressourcenverarbeitung und digitales Speichermanagement für Profis.
+* **ComputerCraft:** Automatisiere deine Welt mit programmierbaren Computern und Turtles.
+
+### 🏗️ Professionelles Bauen
+* **Axiom & WorldEdit:** Nutze die mächtigsten Editoren direkt im Spiel für monumentale Bauwerke.
+* **Architect's Palette & FramedBlocks:** Unendliche Möglichkeiten durch neue Texturen und frei formbare Blöcke.
+* **Deco & Lighting:** Verschönere deine Basis mit *Decocraft*, *ManyIdeas* und *Simply Light*.
+
+### ⚡ Performance & Grafik
+* **Distant Horizons:** Erlebe epische Sichtweiten (LODs), die weit über das Standard-Limit hinausgehen.
+* **Optimiert:** Dank *Sodium*, *Iris*, *ModernFix* und *FerriteCore* läuft dein Spiel flüssig bei maximalen FPS.
+* **Immersion:** Realistische Sounds und Partikeleffekte (*AmbientSounds*, *Immersive Winds*) lassen dich tiefer in die Welt eintauchen.
 
 ---
 
-## 🛠️ Installation & Anforderungen
-
-* **Minecraft-Version:** 1.21.1
-* **Mod-Loader:** NeoForge
-* **RAM Empfehlung:** 6 GB - 8 GB
+## 🛠️ Installation & Setup
+* **Empfohlener RAM:** **6 GB bis 8 GB** für ein flüssiges Erlebnis.
+* **Version:** Minecraft 1.21.1 (NeoForge).
+* **Tipp:** Dank des *Sinytra Connectors* bietet dieses Pack eine außergewöhnliche Mod-Kompatibilität!
 
 ---
 
 ## 🐞 Support & Issues
-
-Du hast einen Bug gefunden oder hast einen Vorschlag? 
-Nutze bitte unseren **[Issue Tracker](https://github.com/MCFabik/AKW-Ultimate-Tech-Design/issues)**. 
-*Bitte hänge bei Abstürzen immer einen Crash-Log (z. B. via Pastebin) an!*
+Du hast einen Fehler gefunden? Bitte nutze unseren **[Issue Tracker](../../issues)**.
+Für private Anfragen: `MCGithubDE@gmx.de`
 
 ---
 
-## ⚖️ [Lizenz](https://github.com/MCFabik/AKW-Ultimate-Tech-Design?tab=License-1-ov-file)
-
----
-
-**Entwickelt mit ❤️ für die Minecraft Tech-Community.**
+## ⚖️ Credits & Disclaimer
+Alle enthaltenen Mods sind Eigentum ihrer jeweiligen Urheber. Dieses Modpack ist lediglich eine kuratierte Zusammenstellung. Sollte ein Mod-Entwickler mit der Aufnahme seiner Mod in dieses Pack nicht einverstanden sein, bitte ich um eine kurze Nachricht an meine E-Mail, damit ich sie umgehend entfernen kann.
