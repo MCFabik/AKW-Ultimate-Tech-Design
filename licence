@@ -1,18 +1,22 @@
-Lizenz: CC BY-NC-SA 4.0
+# Lizenz für AKW: Ultimate Tech & Design
 
-Projekt: AKW: Ultimate Tech & Design
-Urheber: MCFabikDE
+Dieses Modpack und seine Konfigurationen sind lizenziert unter der 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-Dieses Modpack ist unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Lizenz lizenziert.
+## 💡 Sonderregelung für Minecraft-Server (Erlaubnis)
+Abweichend von der "Non-Commercial" Einschränkung der CC BY-NC-SA 4.0 wird hiermit 
+ausdrücklich gestattet:
+1. Der Betrieb dieses Modpacks auf öffentlichen oder privaten Minecraft-Servern.
+2. Die Monetarisierung dieser Server durch den Verkauf von Ingame-Rängen, kosmetischen 
+   Vorteilen oder anderen Inhalten, sofern dies im Einklang mit der Minecraft EULA steht.
 
-DIE WICHTIGSTEN BEDINGUNGEN:
-
-Attribution (Namensnennung): Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-
-NonCommercial (Nicht-kommerziell): Du darfst das Material nicht für kommerzielle Zwecke nutzen.
-
-ShareAlike (Weitergabe unter gleichen Bedingungen): Wenn du das Material remixst, veränderst oder darauf aufbaust, musst du deine Beiträge unter derselben Lizenz wie das Original verbreiten.
-
-HINWEIS:
-Den vollständigen rechtsverbindlichen Text findest du unter:
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de
+## ⚠️ Bedingungen
+* **Namensnennung (Attribution):** Bei jeder Weitergabe oder Veränderung muss der Urheber 
+  (MCFabikDE) sowie ein Link zum Original-Repository (GitHub) deutlich angegeben werden.
+* **Weitergabe unter gleichen Bedingungen:** Wenn du das Pack veränderst oder darauf aufbaust, 
+  musst du dein Projekt unter der exakt gleichen Lizenz (inklusive dieser Sonderregelung) 
+  veröffentlichen.
+* **Drittrechte:** Diese Lizenz bezieht sich ausschließlich auf die Zusammenstellung, 
+  die Konfigurationen und die Scripte des Modpacks. Die Rechte der enthaltenen Mods 
+  (z.B. Mekanism, Create, Axiom) [cite_start]verbleiben bei den jeweiligen Autoren [cite: 5-68]. 
+  Deren individuelle Lizenzen müssen zwingend beachtet werden.
