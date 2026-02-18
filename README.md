@@ -1,5 +1,4 @@
-# ⚡ AKW: Atomic Kinetic Works
-### Ultimate Tech & Design
+# ⚡ AKW: Atomic Kinetic Works | Ultimate Tech & Design
 
 <table>
   <tr>
