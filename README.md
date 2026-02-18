@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="280">
-      <img src="assets/logo.webp" alt="AKW Logo" width="280">
+      <img src="alogo.webp" alt="AKW Logo" width="280">
     </td>
     <td>
       <h3>Das ultimative Modpack für Visionäre</h3>
