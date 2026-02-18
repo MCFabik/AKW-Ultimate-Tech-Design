@@ -1,6 +1,7 @@
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft)
 ![Loader](https://img.shields.io/badge/Loader-NeoForge-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
+[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth)](DEIN_MODRINTH_LINK)
 # ⚡ AKW: Atomic Kinetic Works | Ultimate Tech & Design
 
 <table>
