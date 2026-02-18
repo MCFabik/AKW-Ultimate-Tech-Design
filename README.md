@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/project/akw-ultimate)
 [![CurseForge](https://img.shields.io/badge/Available_on-CurseForge-F16436?style=for-the-badge&logo=curseforge)](https://legacy.curseforge.com/minecraft/modpacks/akw-ultimate)
+![License](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0--Custom-lightgrey?style=for-the-badge)
 # ⚡ AKW: Atomic Kinetic Works | Ultimate Tech & Design
 
 <table>
