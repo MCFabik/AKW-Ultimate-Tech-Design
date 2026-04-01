@@ -23,7 +23,7 @@
 [![CurseForge](https://img.shields.io/badge/Bald_auf-CurseForge-F16436?style=for-the-badge&logo=curseforge)](https://legacy.curseforge.com/minecraft/modpacks/akw-ultimate)
 [![Lizenz](https://img.shields.io/badge/Lizenz-CC--BY--NC--SA--4.0--Custom-blue?style=for-the-badge)](https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/licence)
 
-[🌐 English Version on Modrinth][(https://github.com/MCFabik/AKW-Ultimate-Tech-Design)](https://modrinth.com/project/fnbC2sSX)
+[🌐 English Version on Modrinth](https://modrinth.com/project/fnbC2sSX)
 
 ---
 
