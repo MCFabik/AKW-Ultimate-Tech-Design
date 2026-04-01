@@ -18,7 +18,7 @@ Notwithstanding the strict "Non-Commercial" restriction of the CC BY-NC-SA 4.0, 
 
 * **Attribution:** Any redistribution or modification must clearly state the author (**MCFabikDE**) and include a link to the [original GitHub repository](https://github.com/MCFabik/AKW-Ultimate-Tech-Design).
 * **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the exact same license (including this special regulation).
-* **Third-Party Rights:** This license refers exclusively to the curation, configurations, and scripts of the modpack. The rights to the included mods (such as *Mekanism*, *Create*, *Axiom*, *Applied Energistics 2*, etc.) remain with their respective authors. Their individual licenses must be strictly observed.
+* **Third-Party Rights:** This license refers exclusively to the curation, configurations, and scripts of the modpack. The rights to the included mods (such as *Mekanism*, *Create*, *Axiom*, etc.) remain with their respective authors. Their individual licenses must be strictly observed.
 
 ---
 
@@ -46,7 +46,7 @@ Abweichend von der strikten "Non-Commercial"-Einschränkung der CC BY-NC-SA 4.0 
 
 * **Namensnennung (Attribution):** Bei jeder Weitergabe oder Veränderung muss der Urheber (**MCFabikDE**) sowie ein Link zum [Original-Repository auf GitHub](https://github.com/MCFabik/AKW-Ultimate-Tech-Design) deutlich angegeben werden.
 * **Weitergabe unter gleichen Bedingungen:** Wenn du das Pack veränderst oder darauf aufbaust, musst du dein Projekt unter der exakt gleichen Lizenz (inklusive dieser Sonderregelung) veröffentlichen.
-* **Drittrechte:** Diese Lizenz bezieht sich ausschließlich auf die Zusammenstellung (Curated Collection), die Konfigurationen und die Scripte des Modpacks. Die Rechte der enthaltenen Mods (wie *Mekanism*, *Create*, *Axiom*, *Applied Energistics 2* etc.) verbleiben bei den jeweiligen Autoren. Deren individuelle Lizenzen müssen zwingend beachtet werden.
+* **Drittrechte:** Diese Lizenz bezieht sich ausschließlich auf die Zusammenstellung (Curated Collection), die Konfigurationen und die Scripte des Modpacks. Die Rechte der enthaltenen Mods (wie *Mekanism*, *Create*, *Axiom*, etc.) verbleiben bei den jeweiligen Autoren. Deren individuelle Lizenzen müssen zwingend beachtet werden.
 
 ---
 
