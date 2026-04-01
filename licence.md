@@ -25,7 +25,6 @@ Notwithstanding the strict "Non-Commercial" restriction of the CC BY-NC-SA 4.0, 
 *Created by MCFabikDE – Version: 01.04.2026*
 
 ---
----
 
 # Lizenz für AKW: Atomic Kinetic World
 
