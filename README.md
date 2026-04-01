@@ -1,68 +1,61 @@
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft)
-![Loader](https://img.shields.io/badge/Loader-NeoForge-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
-[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/project/akw-ultimate)
-[![CurseForge](https://img.shields.io/badge/soon_Available_on-CurseForge-F16436?style=for-the-badge&logo=curseforge)](https://legacy.curseforge.com/minecraft/modpacks/akw-ultimate)
-![License](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0--Custom-yellow?style=for-the-badge)
-# ⚡ AKW: Atomic Kinetic Works | Ultimate Tech & Design
-
 <table>
   <tr>
     <td width="300">
-      <img src="logo.webp" alt="AKW Logo" width="300">
+      <img src="https://cdn.modrinth.com/data/cached_images/ab9991bc5364e4adf3c18f37ec980877b43639b2.webp" alt="AKW Logo" width="300">
     </td>
     <td>
       <h3>Das ultimative Modpack für Visionäre</h3>
       <p>
-        <strong>Atomic Kinetic Works (AKW)</strong> ist die nächste Generation der Minecraft-Ingenieurkunst. Auf der stabilen Basis von <strong>NeoForge 1.21.1</strong> vereinen wir komplexe Industrietechnik mit den mächtigsten Design-Tools der Modding-Geschichte.
+        <strong>Atomic Kinetic World (AKW)</strong> ist die nächste Generation der Minecraft-Ingenieurkunst. Auf der stabilen Basis von <strong>NeoForge 1.21.1</strong> vereinen wir komplexe Industrietechnik mit den mächtigsten Design-Tools der Modding-Geschichte.
       </p>
       <p>
         Erschaffe gigantische Fabriken, automatisiere jeden Prozess bis zur Perfektion und baue mit Werkzeugen, die keine Grenzen kennen.
       </p>
       <p>
         📧 <strong>Kontakt:</strong> <a href="mailto:MCGithubDE@gmx.de">MCGithubDE@gmx.de</a><br>
-        🚧 <strong>Status:</strong> In aktiver Entwicklung
+        🚧 <strong>Status:</strong> In aktiver Entwicklung (Preview)
       </p>
     </td>
   </tr>
 </table>
 
----
+![Status](https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge)
+[![CurseForge](https://img.shields.io/badge/Bald_auf-CurseForge-F16436?style=for-the-badge&logo=curseforge)](https://legacy.curseforge.com/minecraft/modpacks/akw-ultimate)
+[![Lizenz](https://img.shields.io/badge/Lizenz-CC--BY--NC--SA--4.0--Custom-blue?style=for-the-badge)](https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/licence)
 
-## 🚀 Die Highlights
-
-### ⚙️ Automation & High-End Tech
-* **Create & Add-ons:** Meistere kinetische Energie, baue komplexe Schienensysteme und nutze Diesel-Power.
-* **Mekanism & AE2:** High-End Ressourcenverarbeitung und digitales Speichermanagement für höchste Effizienz.
-* **ComputerCraft:** Übernimm die volle Kontrolle mit programmierbaren Computern und autonomen Turtles.
-* **Sinytra Connector:** Maximale Kompatibilität durch die Verschmelzung von Mod-Welten.
-
-### 🏗️ Revolutionäres Bauen & Design
-* **Axiom & WorldEdit:** Nutze Profi-Editoren direkt im Spiel für monumentale Bauwerke in Rekordzeit.
-* **Architect's Palette & FramedBlocks:** Unendliche Gestaltungsmöglichkeiten durch neue Texturen und frei formbare Blöcke.
-* **Deco & Lighting:** Perfektioniere deine Basis mit *Decocraft*, *ManyIdeas* und *Simply Light*.
-
-### ⚡ Performance & Immersion
-* **Distant Horizons:** Erlebe atemberaubende Sichtweiten (LODs), die deinen Horizont buchstäblich erweitern.
-* **Maximale FPS:** Dank *Sodium*, *Iris*, *ModernFix* und *FerriteCore* bleibt das Erlebnis flüssig.
-* **Lebendige Welt:** Realistische Soundkulissen und Partikeleffekte (*AmbientSounds*, *Immersive Winds*) für volle Immersion.
+[🌐 English Version on GitHub](https://github.com/MCFabik/AKW-Ultimate-Tech-Design)
 
 ---
 
-## 🛠️ Installation & Setup
-* **Version:** Minecraft 1.21.1 (NeoForge).
-* **RAM-Zuweisung:** Empfohlen sind **6 GB bis 8 GB** für ein stabiles Spielerlebnis.
-* **Grafik:** Shader werden dank *Iris* nativ unterstützt und empfohlen.
+### Die Vision: Pure Sandbox-Freiheit
+**AKW: Atomic Kinetic World** ist ein reines Sandbox-Erlebnis. Es gibt keine erzwungenen Questreihen oder künstliche Barrieren, die dich aufhalten. Dieses Pack ist für visionäre Ingenieure gedacht, die direkt in komplexe Automatisierung eintauchen wollen, und für Architekten, die keine Kompromisse bei der Ästhetik eingehen. Ob du einen hocheffizienten Fissionsreaktor oder ein weitläufiges kinetisches Schienennetz konstruierst – du hast die Werkzeuge, um deine Welt vom ersten Moment an funktional und ästhetisch zu gestalten.
 
 ---
 
-## 🐞 Support & Feedback
-Fehler gefunden oder Verbesserungsvorschläge?
-* **Issue Tracker:** Melde Bugs direkt hier in den **[Issues](../../issues)**.
-* **Kontakt:** Für private oder geschäftliche Anfragen: `MCGithubDE@gmx.de`
+## 🚀 Hauptmerkmale
+
+### ⚙️ Automatisierung & Industrielle Technik
+* **Create & Ökosystem:** Nutze Rotationskraft, um gewaltige Schienennetze und dieselbetriebene Industrien anzutreiben.
+* **Mekanism & High-Tech:** Implementiere chemische Verarbeitung auf höchstem Niveau und meistere die atomare Energiegewinnung.
+* **ComputerCraft (CC: Tweaked):** Übernimm die Kontrolle mit programmierbaren Systemen und automatisierten Turtles für maximale Effizienz.
+
+### 🏗️ Fortgeschrittenes architektonisches Design
+* **Axiom & WorldEdit:** Nutze Editierwerkzeuge auf Industriestandard, um Gelände und Strukturen in Echtzeit zu formen.
+* **Architect's Palette & FramedBlocks:** Durchbrich das Raster mit maßgeschneiderten Formen und einer riesigen Auswahl an professionellen Texturen.
+* **Verfeinerte Ästhetik:** Perfektioniere deine Bauten mit hochwertiger Beleuchtung und dekorativen Inhalten von *Simply Light* und *ManyIdeas*.
+
+### ⚡ Performance der nächsten Generation
+* **Distant Horizons:** Erkunde atemberaubende Landschaften mit extremen LOD-Sichtweiten, die weit über das Standardlimit hinausgehen.
+* **Reine Optimierung:** Entwickelt mit **Embeddium**, *Lithium* und *ModernFix*, um maximale FPS und felsenfeste Stabilität zu gewährleisten – selbst in komplexen Industriegebieten.
 
 ---
 
-## ⚖️ Credits & Disclaimer
-Alle enthaltenen Mods sind Eigentum ihrer jeweiligen Urheber. Dieses Modpack ist eine sorgfältig kuratierte Zusammenstellung.
-*Falls ein Mod-Entwickler mit der Aufnahme seiner Arbeit nicht einverstanden ist, bitte ich um eine kurze Nachricht per E-Mail, um die Mod umgehend zu entfernen.*
+## 🛠️ Anforderungen & Technische Details
+* **Empfohlener Arbeitsspeicher (RAM):** 6 GB – 8 GB
+* **Plattform:** Minecraft 1.21.1 (NeoForge)
+* **Entwickler-Hub:** [GitHub Repository](https://github.com/MCFabik/AKW-Ultimate-Tech-Design)
+
+---
+
+## ⚖️ Credits & Rechtliches
+Alle enthaltenen Mods sind das geistige Eigentum ihrer jeweiligen Entwickler. **AKW** ist eine sorgfältig kuratierte Sammlung für die Community. Für Anfragen, Lizenzfragen oder Anträge zur Entfernung von Mods kontaktiere bitte **MCGithubDE@gmx.de** oder melde dich via [GitHub](https://github.com/MCFabik/AKW-Ultimate-Tech-Design).
