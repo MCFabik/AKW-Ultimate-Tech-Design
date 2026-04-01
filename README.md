@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="300">
-      <img src="https://cdn.modrinth.com/data/cached_images/ab9991bc5364e4adf3c18f37ec980877b43639b2.webp" alt="AKW Logo" width="300">
+      <img src="https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/Logo%20Atomic%20Kinetic%20World.webp?raw=true" alt="AKW Logo" width="300">
     </td>
     <td>
       <h3>Das ultimative Modpack für Visionäre</h3>
