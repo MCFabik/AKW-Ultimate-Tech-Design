@@ -22,4 +22,4 @@ Abweichend von der strikten "Non-Commercial"-Einschränkung der CC BY-NC-SA 4.0 
 
 ---
 
-*Erstellt von MCFabikDE – Stand: 04.2026*
+*Erstellt von MCFabikDE – Stand: 01.04.2026*
