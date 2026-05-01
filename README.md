@@ -1,61 +1,42 @@
-<table>
-  <tr>
-    <td width="300">
-      <img src="https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/Logo%20Atomic%20Kinetic%20World.webp?raw=true" alt="AKW Logo" width="300">
-    </td>
-    <td>
-      <h3>Das ultimative Modpack für Visionäre</h3>
-      <p>
-        <strong>Atomic Kinetic World (AKW)</strong> ist die nächste Generation der Minecraft-Ingenieurkunst. Auf der stabilen Basis von <strong>NeoForge 1.21.1</strong> vereinen wir komplexe Industrietechnik mit den mächtigsten Design-Tools der Modding-Geschichte.
-      </p>
-      <p>
-        Erschaffe gigantische Fabriken, automatisiere jeden Prozess bis zur Perfektion und baue mit Werkzeugen, die keine Grenzen kennen.
-      </p>
-      <p>
-        📧 <strong>Kontakt:</strong> <a href="mailto:MCGithubDE@gmx.de">MCGithubDE@gmx.de</a><br>
-        🚧 <strong>Status:</strong> In aktiver Entwicklung (Preview)
-      </p>
-    </td>
-  </tr>
-</table>
-
-![Status](https://img.shields.io/badge/Status-In_Entwicklung-yellow?style=for-the-badge)
-[![CurseForge](https://img.shields.io/badge/Bald_auf-CurseForge-F16436?style=for-the-badge&logo=curseforge)](https://legacy.curseforge.com/minecraft/modpacks/akw-ultimate)
-[![Lizenz](https://img.shields.io/badge/Lizenz-CC--BY--NC--SA--4.0--Custom-blue?style=for-the-badge)](https://github.com/MCFabik/AKW-Ultimate-Tech-Design/blob/AKW-Ultimate/licence)
-
-[🌐 English Version on Modrinth](https://modrinth.com/project/fnbC2sSX)
+![Banner](https://cdn.modrinth.com/data/cached_images/ab9991bc5364e4adf3c18f37ec980877b43639b2.webp)
 
 ---
 
-### Die Vision: Pure Sandbox-Freiheit
-**AKW: Atomic Kinetic World** ist ein reines Sandbox-Erlebnis. Es gibt keine erzwungenen Questreihen oder künstliche Barrieren, die dich aufhalten. Dieses Pack ist für visionäre Ingenieure gedacht, die direkt in komplexe Automatisierung eintauchen wollen, und für Architekten, die keine Kompromisse bei der Ästhetik eingehen. Ob du einen hocheffizienten Fissionsreaktor oder ein weitläufiges kinetisches Schienennetz konstruierst – du hast die Werkzeuge, um deine Welt vom ersten Moment an funktional und ästhetisch zu gestalten.
+**The ultimate modpack for visionaries – The ultimate experience for engineers and architects.**
+
+**AKW: Atomic Kinetic Works** combines complex industrial engineering with state-of-the-art design tools on the stable **NeoForge 1.21.1**. Create gigantic factories, automate every process, and build with tools that will blow your mind.
 
 ---
 
-## 🚀 Hauptmerkmale
+## 🚀 Highlights / Key Features
 
-### ⚙️ Automatisierung & Industrielle Technik
-* **Create & Ökosystem:** Nutze Rotationskraft, um gewaltige Schienennetze und dieselbetriebene Industrien anzutreiben.
-* **Mekanism & High-Tech:** Implementiere chemische Verarbeitung auf höchstem Niveau und meistere die atomare Energiegewinnung.
-* **ComputerCraft (CC: Tweaked):** Übernimm die Kontrolle mit programmierbaren Systemen und automatisierten Turtles für maximale Effizienz.
+### ⚙️ Automation & High-Tech
+* **Create & Add-ons:** Harness kinetic energy, build complex rail systems, and diesel generators. *(Mechanical power & logistics)*
+* **Mekanism:** High-end resource processing and digital storage management. *(Digital storage & advanced processing)*
+* **ComputerCraft (CC: Tweaked):** Automate your world with programmable computers and Turtles. *(In-game programming)*
 
-### 🏗️ Fortgeschrittenes architektonisches Design
-* **Axiom & WorldEdit:** Nutze Editierwerkzeuge auf Industriestandard, um Gelände und Strukturen in Echtzeit zu formen.
-* **Architect's Palette & FramedBlocks:** Durchbrich das Raster mit maßgeschneiderten Formen und einer riesigen Auswahl an professionellen Texturen.
-* **Verfeinerte Ästhetik:** Perfektioniere deine Bauten mit hochwertiger Beleuchtung und dekorativen Inhalten von *Simply Light* und *ManyIdeas*.
+### 🏗️ Professional Building / Advanced Design
+* **Axiom & WorldEdit:** Use the most powerful in-game editors to create monumental structures. *(Professional world editing)*
+* **Architect's Palette & FramedBlocks:** Endless possibilities with new textures and freely moldable blocks. *(Unlimited shapes & textures)*
+* **Deco & Lighting:** Beautify your base with *Decocraft*, *ManyIdeas*, and *Simply Light*. *(Advanced aesthetics)*
 
-### ⚡ Performance der nächsten Generation
-* **Distant Horizons:** Erkunde atemberaubende Landschaften mit extremen LOD-Sichtweiten, die weit über das Standardlimit hinausgehen.
-* **Reine Optimierung:** Entwickelt mit **Embeddium**, *Lithium* und *ModernFix*, um maximale FPS und felsenfeste Stabilität zu gewährleisten – selbst in komplexen Industriegebieten.
-
----
-
-## 🛠️ Anforderungen & Technische Details
-* **Empfohlener Arbeitsspeicher (RAM):** 6 GB – 8 GB
-* **Plattform:** Minecraft 1.21.1 (NeoForge)
-* **Entwickler-Hub:** [GitHub Repository](https://github.com/MCFabik/AKW-Ultimate-Tech-Design)
+### ⚡ Performance & Graphics
+* **Distant Horizons:** Experience epic draw distances (LODs) that go far beyond the standard limit. *(Extreme render distance)*
+* **Maximum Optimization:** Thanks to *Sodium*, *Iris*, *ModernFix*, and *FerriteCore*, your game runs smoothly at maximum FPS. *(Engineered for stability)*
 
 ---
 
-## ⚖️ Credits & Rechtliches
-Alle enthaltenen Mods sind das geistige Eigentum ihrer jeweiligen Entwickler. **AKW** ist eine sorgfältig kuratierte Sammlung für die Community. Für Anfragen, Lizenzfragen oder Anträge zur Entfernung von Mods kontaktiere bitte **MCGithubDE@gmx.de** oder melde dich via [GitHub](https://github.com/MCFabik/AKW-Ultimate-Tech-Design).
+## 🛠️ Installation & Setup
+* **Recommended RAM:** 6 GB - 8 GB
+* **Version:** Minecraft 1.21.1 (NeoForge)
+* **Developer Updates:** [GitHub Repository](https://github.com/MCFabik/AKW-Ultimate-Tech-Design)
+
+---
+
+## ⚖️ Credits & Disclaimer
+All mods included are the property of their respective creators. This modpack is a carefully curated collection. 
+
+**Special Mod Note:**
+Included is the mod **Orva Alarms** (`orva_alarms-4.1-neoforge-1.21.1.jar`), which is sourced from **CurseForge**. You can find the original mod page here: [Orva Alarms on CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms).
+
+For legal questions or mod removal requests, please send a message to **MCGithubDE@gmx.de** or via [GitHub](https://github.com/MCFabik/AKW-Ultimate-Tech-Design).
